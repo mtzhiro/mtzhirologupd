@@ -3,7 +3,7 @@ blog update from GoogleDrive drafts by mtzhiro
 
 ## setup
 
--set bloupd.php
+-set blogupd.php
 
 -set permissions
 
